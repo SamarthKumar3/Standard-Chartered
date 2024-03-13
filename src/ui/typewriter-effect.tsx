@@ -1,6 +1,6 @@
 "use client";
 
-import { cn } from "../lib/utils";
+import { cn } from "@/lib/utils";
 import { motion, stagger, useAnimate, useInView } from "framer-motion";
 import { useEffect } from "react";
 
@@ -35,7 +35,7 @@ export const TypewriterEffect = ({
           opacity: 1,
         },
         {
-          duration: 3,
+          duration: 0.3,
           delay: stagger(0.1),
           ease: "easeInOut",
         }
@@ -84,7 +84,7 @@ export const TypewriterEffect = ({
           opacity: 1,
         }}
         transition={{
-          duration: 3,
+          duration: 0.8,
           repeat: Infinity,
           repeatType: "reverse",
         }}
