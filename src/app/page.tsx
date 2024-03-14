@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { TypewriterEffectSmooth } from "../ui/typewriter-effect";
 import next from "next";
-
+import Script from 'next/script';
 export default function Page() {
   const words = [
     {
@@ -75,7 +75,7 @@ export default function Page() {
               src="https://chatbot.hellotars.com/conv/lh-bkU/"
             ></iframe>
           </div>
-          <script src="https://tars-file-upload.s3.amazonaws.com/bulb/js/fullpage.js"></script>
+          <Script src="https://tars-file-upload.s3.amazonaws.com/bulb/js/fullpage.js"></Script>
         </div>
       )}
     </>
