@@ -1,10 +1,13 @@
 # VeriFyn Video KYC System
-
 An intuitive and self-sufficient online video KYC (Know Your Customer) system that captures user details through a conversational interface.
 
 ## Introduction
 
 The Online Video KYC System is designed to streamline the KYC process by offering an interactive video-based solution. It simplifies the user experience while ensuring compliance and security.
+
+## Video Explanation
+
+https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=sharing
 
 ## Features
 
