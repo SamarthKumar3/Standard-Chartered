@@ -46,11 +46,30 @@ import { TypewriterEffectSmooth } from '../ui/typewriter-effect';
 
 export default function Page() {
   const words = [
+<<<<<<< HEAD
     { text: 'Build' },
     { text: 'your' },
     { text: 'Trust' },
     { text: 'with' },
     { text: 'VerifyFin.', className: 'text-blue-500 dark:text-blue-500' },
+=======
+    {
+      text: "Build",
+    },
+    {
+      text: "your",
+    },
+    {
+      text: "Trust",
+    },
+    {
+      text: "with",
+    },
+    {
+      text: "VerifyFin.",
+      className: "text-blue-500 dark:text-blue-500 overflow-hidden",
+    },
+>>>>>>> ee23ba4beb9cac68881a112b619052d45bf6506a
   ];
 
   const [showChatbot, setShowChatbot] = useState(false);
@@ -72,6 +91,7 @@ export default function Page() {
   }, [showChatbot]);
 
   return (
+<<<<<<< HEAD
     <>
       <div className="flex flex-col items-center justify-center h-[40rem]" id='hero' >
         <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base">
@@ -88,6 +108,20 @@ export default function Page() {
           </button>
         </div>
 
+=======
+    <div className="flex flex-col items-center justify-center h-[40rem] overflow-hidden ">
+      <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base overflow-hidden ">
+        The road to seamless experience starts from here
+      </p>
+      <TypewriterEffectSmooth words={words} />
+      <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4">
+        <Link
+          className="w-40 h-10 px-9 py-2 rounded-xl bg-black border dark:border-white border-transparent text-white text-sm"
+          href="/chatbot"
+        >
+          Get started
+        </Link>
+>>>>>>> ee23ba4beb9cac68881a112b619052d45bf6506a
       </div>
       {showChatbot && (
         <div className="fixed bottom-4 right-4 w-1/3">
