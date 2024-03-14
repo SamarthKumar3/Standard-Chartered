@@ -23,7 +23,10 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
 
 ## Screenshots
 
-[Include screenshots or GIFs showcasing the user interface and workflow]
+![web page](ui1.png)
+
+![web page des](ui2.png)
+
 
 ## Architecture
 
