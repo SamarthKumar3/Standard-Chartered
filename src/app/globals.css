@@ -2,3 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+    height: 100vh;
+}
+
+#hero{
+    height: 100vh;
+}
+.dark{
+    filter: blur(3px);
+}
+
+#tars-fullpage-container{
+    height: 80vh;
+    
+}
