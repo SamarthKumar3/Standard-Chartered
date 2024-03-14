@@ -20,9 +20,6 @@ https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=shari
 - Real-time validation and verification
 - Accessibility features for users with disabilities
 
-## Demo
-
-[[Link to live demo, if available](https://www.loom.com/share/47572a72570a4d97996266d6e5928f92?start_download=true)]
 
 ## Screenshots
 
