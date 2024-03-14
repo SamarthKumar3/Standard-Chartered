@@ -17,12 +17,12 @@ export default function TypewriterEffectSmoothDemo() {
     },
     {
       text: "VerifyFin.",
-      className: "text-blue-500 dark:text-blue-500",
+      className: "text-blue-500 dark:text-blue-500 overflow-hidden",
     },
   ];
   return (
-    <div className="flex flex-col items-center justify-center h-[40rem]  ">
-      <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base  ">
+    <div className="flex flex-col items-center justify-center h-[40rem] overflow-hidden ">
+      <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base overflow-hidden ">
         The road to seamless experience starts from here
       </p>
       <TypewriterEffectSmooth words={words} />
