@@ -36,6 +36,7 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
 
 ![System Architecture](Architecture diagram.png)
 
+
 ## Technologies Used
 
 - Frontend:
