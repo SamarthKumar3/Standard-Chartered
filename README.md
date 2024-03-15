@@ -12,6 +12,10 @@ https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=shari
 
 [![Video Explanation](https://drive.google.com/file/d/1cIRpE9Bw3c4rNJ8N-OAByEDbBxylVUOx/view?usp=sharing)](https://drive.google.com/file/d/1djXN1tdO_T5qxCPM85exy7U8hizohb0c/view?usp=drive_link)
 
+
+## Live hosting
+[VeriFyn at Vercel](https://standard-chartered-kk74.vercel.app/)
+
 ## Features
 
 - Interactive video-based KYC process
