@@ -7,10 +7,12 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
 
 ## Video Explanation
 
+
+https://github.com/SamarthKumar3/Standard-Chartered/assets/75978284/4b3efd40-2b3e-4254-90e8-c6cdcd2f49d5
+
+
 https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=sharing
 
-
-[![Video Explanation](https://drive.google.com/file/d/1cIRpE9Bw3c4rNJ8N-OAByEDbBxylVUOx/view?usp=sharing)](https://drive.google.com/file/d/1djXN1tdO_T5qxCPM85exy7U8hizohb0c/view?usp=drive_link)
 
 
 ## Live hosting
