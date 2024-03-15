@@ -8,6 +8,8 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
 ## Video Explanation
 
 https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=sharing
+
+
 [![Video Explanation](https://drive.google.com/file/d/1cIRpE9Bw3c4rNJ8N-OAByEDbBxylVUOx/view?usp=sharing)](https://drive.google.com/file/d/1djXN1tdO_T5qxCPM85exy7U8hizohb0c/view?usp=drive_link)
 
 ## Features
@@ -46,6 +48,7 @@ https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=shari
   - HTML/CSS
   - JavaScript
   - React.js
+  - Next.js
 - Backend:
   - Node.js
   - Express.js
