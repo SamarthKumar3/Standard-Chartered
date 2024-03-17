@@ -10,7 +10,7 @@ export default function TypewriterEffectSmoothDemo() {
       text: "your",
     },
     {
-      text: "Trust",
+      text: "trust",
     },
     {
       text: "with",
