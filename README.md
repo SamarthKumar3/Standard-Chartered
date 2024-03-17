@@ -1,10 +1,22 @@
 # VeriFyn Video KYC System
-
 An intuitive and self-sufficient online video KYC (Know Your Customer) system that captures user details through a conversational interface.
 
 ## Introduction
 
 The Online Video KYC System is designed to streamline the KYC process by offering an interactive video-based solution. It simplifies the user experience while ensuring compliance and security.
+
+## Video Explanation
+
+
+https://github.com/SamarthKumar3/Standard-Chartered/assets/75978284/4b3efd40-2b3e-4254-90e8-c6cdcd2f49d5
+
+
+https://drive.google.com/file/d/18GSiNSL_Ky6qrwCaZm7HGFlsTcgQFNp-/view?usp=sharing
+
+
+
+## Live hosting
+[VeriFyn at Vercel](https://standard-chartered-kk74.vercel.app/)
 
 ## Features
 
@@ -17,13 +29,13 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
 - Real-time validation and verification
 - Accessibility features for users with disabilities
 
-## Demo
-
-[Link to live demo, if available]
 
 ## Screenshots
 
-[Include screenshots or GIFs showcasing the user interface and workflow]
+![web page](ui1.png)
+
+![web page des](ui2.png)
+
 
 ## Architecture
 
@@ -42,6 +54,7 @@ The Online Video KYC System is designed to streamline the KYC process by offerin
   - HTML/CSS
   - JavaScript
   - React.js
+  - Next.js
 - Backend:
   - Node.js
   - Express.js
